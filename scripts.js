@@ -2,28 +2,33 @@ const orden = [];
 const platos = [
     {
         id:1,
-        nombre:"Pollo Asado",
-        precio:900,
+        nombre:"Parrilla",
+        precio:35,
     },
     {
         id:2,
-        nombre:"Papas Fritas",
-        precio:400,
+        nombre:"Pizza",
+        precio:20,
     },
     {
         id:3,
-        nombre:"Pollo al Horno",
-        precio:800,
+        nombre:"Papas fritas",
+        precio:15,
     },
     {
         id:4,
-        nombre:"Carne a la Parrilla",
-        precio:900,
+        nombre:"Pollo y carne al horno",
+        precio:25,
     },
     {
         id:5,
-        nombre:"Ensalada con Guarnicion",
-        precio:400,
+        nombre:"Salsas",
+        precio:5,
+    },
+    {
+        id:6,
+        nombre:"Bebida",
+        precio:10,
     },
 ];
 
